@@ -1,8 +1,8 @@
 import streamlit
 streamlit.title('My breakkie')
-streamlit.text('Scrambled eggs')
-streamlit.text('Avocado & Cheese')
-streamlit.text('Porridge')
+streamlit.text('🐔 Scrambled eggs')
+streamlit.text('🥑 Avocado & Cheese')
+streamlit.text('🥣 Porridge')
 streamlit.title('My Parents New Healthy Diner')
 streamlit.header('Breakfast Menu')
 streamlit.text('Omega 3 & Blueberry Oatmeal')
