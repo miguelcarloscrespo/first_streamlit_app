@@ -1,6 +1,6 @@
 import streamlit
-streamlit.header('Breakfast Menu')
-streamlit.title('My breakkie')
+streamlit.title('Breakfast Menu')
+streamlit.header('My breakkie')
 streamlit.text('🐔 Scrambled eggs')
 streamlit.text('🥑 Avocado & Cheese')
 streamlit.text('🥣 Porridge')
