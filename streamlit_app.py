@@ -1,7 +1,7 @@
 import streamlit
 import pandas
 streamlit.title('Breakfast Menu')
-streamlit.header('My breakkie.')
+streamlit.header('My breakkie')
 streamlit.text('🐔 Scrambled eggs')
 streamlit.text('🥑 Avocado & Cheese')
 streamlit.text('🥣 Porridge')
